@@ -1,0 +1,15 @@
+[submodule "lora_pi_scripts"]
+	path = lora_pi_scripts
+	url = https://github.com/gottalovebrando/lora_pi_scripts.git
+[submodule "LoRa_Receive_RS232"]
+	path = LoRa_Receive_RS232
+	url = https://github.com/gottalovebrando/LoRa_Receive_RS232.git
+[submodule "RFM95Test-send"]
+	path = RFM95Test-send
+	url = https://github.com/gottalovebrando/RFM95Test-send.git
+[submodule "Elevator_Sensor_8MHz"]
+	path = Elevator_Sensor_8MHz
+	url = https://github.com/gottalovebrando/Elevator_Sensor_8MHz.git
+[submodule "Alpha1_car"]
+	path = Alpha1_car
+	url = https://github.com/gottalovebrando/Alpha1_car.git
